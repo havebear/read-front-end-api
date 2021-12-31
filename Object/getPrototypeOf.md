@@ -8,7 +8,7 @@ Object.getPrototypeOf(object)
 
 ## 参数
 
-object
+**object**
 
 要返回其原型的对象。
 

@@ -8,6 +8,8 @@ prototypeObj.isPrototypeOf(object)
 
 ## 参数
 
+**object**
+
 在该对象的原型链上搜寻
 
 ## 返回值
